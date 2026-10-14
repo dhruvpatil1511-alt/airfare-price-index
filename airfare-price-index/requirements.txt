@@ -1,4 +1,0 @@
-# For Streamlit Community Cloud deployment
--e .
-streamlit>=1.30
-plotly>=5.18
